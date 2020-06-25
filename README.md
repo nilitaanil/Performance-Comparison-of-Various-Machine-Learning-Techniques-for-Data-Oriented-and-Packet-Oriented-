@@ -1,0 +1,4 @@
+# Performance-Comparison-of-Various-Machine-Learning-Techniques-for-Data-Oriented-and-Packet-Oriented-
+We have carefully developed a hybrid IDS, an autonomous IDS that can detect intrusions without human intervention is required for application in the IoT environment. The hybrid
+IDS consists of a Host- based IDS (HIDS) and a Network- based IDS (NIDS). HIDS is to detect anomalies in the traffic using unsupervised algorithms - Fuzzy C-means, K-means. NIDS is used for malware detection using supervised algorithms like - Naive Bayes, Support Vector Machine, Logistic Regression and k-Nearest Neighbor. We have also compared the algorithms using metrics - TPR, FPR and accuracies and come to a conclusion for the best algorithm that can be used in each of the IDSs. For NIDS, SVM is considered to be the most
+apt algorithm among others and for HIDS, it is Fuzzy C-means.
